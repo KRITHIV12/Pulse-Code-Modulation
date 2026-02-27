@@ -1,7 +1,7 @@
-# KRITHI.V
-# 212224060128
 
 # PULSE CODE MODULATION AND DELTA MODULATION
+# NAME:KRITHI.V
+# REG NO:212224060128
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
 # Tools required
