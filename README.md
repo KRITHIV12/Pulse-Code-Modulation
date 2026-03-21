@@ -30,7 +30,7 @@ pcm = ((q - q.min()) / step).astype(int)
 
 # Plot
 plt.figure(figsize=(10,9))
-plt.suptitle("NAME : SRI JANI.G\nREG NO : 212224060259",
+plt.suptitle("NAME : KRITHI.V\nREG NO : 212224060128",
              fontsize=12, fontweight='bold')
 
 plt.subplot(4,1,1)
@@ -90,7 +90,7 @@ rec_filt = filtfilt(b, a, rec)
 
 # Plot
 plt.figure(figsize=(10,8))
-plt.suptitle("NAME : SRI JANI.G\nREG NO : 212224060259",
+plt.suptitle("NAME : KRITHI.V\nREG NO : 212224060128",
              fontsize=12, fontweight='bold')
 
 plt.subplot(3,1,1)
